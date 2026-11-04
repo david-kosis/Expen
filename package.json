@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "auth-page",
   "private": true,
   "version": "1.0.0",
@@ -17,3 +18,19 @@
     "vite": "^5.4.0"
   }
 }
+=======
+  "name": "expenso-auth",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
+>>>>>>> 9a907874306ca1d4ddb9a4117e0fad4d71039a3b
